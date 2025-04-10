@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Saani Rawat"
+title                    : "Saani's Academic Website"
 title_separator          : "-"
 name                     : &name "Saani Rawat"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "saani_nabe.jpg"
+  avatar           : "saani_rawat.png"
   name             : "Saani Rawat"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, Lindner College of Business, University of Cincinnati"
