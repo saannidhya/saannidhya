@@ -1,17 +1,15 @@
 ---
 layout: single
 title: "Research"
-permalink: /
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
 ---
 
 <span style="font-size:1.4em;">**Working Papers and Work in Progress**</span>
 
 <span style="font-size:.9em;">**The Effect of Local Road Maintenance Taxes on House Values (Job Market Paper)**</span>
 <br/>
-<span style="font-size:.9em; margin-top: -5px;">With [David Brasington](https://scholar.google.com/citations?user=s5Qa3_MAAAAJ&hl=en). 2025. \</span>
+<span style="font-size:.9em; margin-top: -5px;">With [David Brasington](https://scholar.google.com/citations?user=s5Qa3_MAAAAJ&hl=en). 2025. </span>
 <br/>
 
 <div style="font-size: .9em; line-height: 1.4;">
@@ -46,7 +44,7 @@ We examine whether reinvestment in single-family homes (SFHs) varies by housing 
 
 <span style="font-size:1.4em;">**Publications**</span>
 
-<span style="font-size:.9em;">**[Diverging opinions on standardized testing: A survey-based approach](https://doi.org/10.1016/j.econlet.2025.112292)** (with [Vikram Suresh](https://scholar.google.com/citations?hl=en&user=EBKq0HoAAAAJ). Economics Letters, 2025.</span>
+<span style="font-size:.9em;">**[Diverging opinions on standardized testing: A survey-based approach](https://doi.org/10.1016/j.econlet.2025.112292)** (with [Vikram Suresh](https://scholar.google.com/citations?hl=en&user=EBKq0HoAAAAJ), *Economics Letters*, 2025.</span>
 <br/>
 <!-- <small>[ <a href="#/" onclick="visib('BBs')">Abstract</a> | [PDF][BBs] | [LE][BBs_LE] ]</small> -->
 
